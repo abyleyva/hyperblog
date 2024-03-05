@@ -9,5 +9,6 @@ Un blog para aprender el uso de git &amp; github en el curso de platzi
 - Resolver conflictos
 - Ignorar Archvos
 - etc.
+- Creado por un equipo increible
 
 [Sigueme](http://abyleyva.com "Sigueme")
